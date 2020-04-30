@@ -1,0 +1,9 @@
+/.vs
+/EventBus.Core/obj
+/EventBus.Core/bin
+/EventBus.Common/obj
+/EventBus.Common/bin
+/EventBus.MainService/obj
+/EventBus.MainService/bin
+/EventBus.ReceiverService/obj
+/EventBus.ReceiverService/bin
